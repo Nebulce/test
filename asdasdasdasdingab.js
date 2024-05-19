@@ -1,3 +1,2 @@
-window.onload = function() {
-    alert("外部JS文件已被加载！");
-}
+// 弹出一个警告框
+alert("Hello, this is an alert from the external JS file!");
